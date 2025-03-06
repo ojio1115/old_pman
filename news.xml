@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+	<channel>
+		<pages>
+			<pagecount>5</pagecount>
+		</pages>
+		
+		<news>
+			<date>2022/01/07</date>
+			<description>1月の定休日：10日(祝)、16日(日)、23日(日)、30日(日)</description>
+		</news>
+		<news>
+			<date>2021/12/15</date>
+			<description>12月31日～1月4日はお休みします。</description>
+		</news>
+		<news>
+			<date>2021/12/15</date>
+			<description>ランチ営業 お弁当の販売は終了しました。</description>
+		</news>
+		<news>
+			<date>2021/04/25</date>
+			<description>5月11日まで休業致します。但し平日ランチ営業・テイクアウトの販売は11:30-16:00まで営業致します。</description>
+		</news>
+		<news>
+			<date>2021/04/23</date>
+			<description>日曜日定休。祝日営業します。</description>
+		</news>
+	</channel>
+</rss>	
